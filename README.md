@@ -7,8 +7,7 @@
 
 ## 🚀 Live Demo
 - **Vercel**: Deployed automatically via GitHub integration
-- **GitHub Pages**: [https://aatmajp.github.io/Aatmaj-Portfolioo/](https://aatmajp.github.io/Aatmaj-Portfolioo/)
-
+- **GitHub Pages**: https://aatmaj-portfolioo.vercel.app/
 ---
 
 ## 🛠️ Tech Stack
